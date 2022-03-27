@@ -20,10 +20,10 @@ Použité technológie
 
 Časový plán
 
-3 hod.: Úvodná konzultácia
-4 hod.: Navrhnutie a vytvorenie databázy
-1 hod.: Vytvorenie objektových tried a ich mapovanie na databázu
-15 hod.: Vytvorenie štruktúry a vzhľadu aplikácie pomocou hypertextových jazykov a kaskádových štýlov
-30 hod.: Vytvorenie funkcionality aplikácie na strane servera (jazyk  C#)
-15 hod.: Vytvorenie dynamického obsahu aplikácie pomocou skriptovacieho jazyka
+- 3 hod.: Úvodná konzultácia
+- 4 hod.: Navrhnutie a vytvorenie databázy
+- 1 hod.: Vytvorenie objektových tried a ich mapovanie na databázu
+- 15 hod.: Vytvorenie štruktúry a vzhľadu aplikácie pomocou hypertextových jazykov a kaskádových štýlov
+- 30 hod.: Vytvorenie funkcionality aplikácie na strane servera (jazyk  C#)
+- 15 hod.: Vytvorenie dynamického obsahu aplikácie pomocou skriptovacieho jazyka
 
